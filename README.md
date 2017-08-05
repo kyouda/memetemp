@@ -1,2 +1,0 @@
-# memetemp
-meme templates
