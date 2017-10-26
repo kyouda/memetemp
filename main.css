@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+html, body{
+  height: 100%;
+}
+body { 
+			background-image: url(C:/Users/kyouda/Desktop/lmao2.jpg) ;
+			background-position: center center;
+			background-repeat:  no-repeat;
+			background-attachment: fixed;
+			background-size:  cover;
+			background-color: #999;
+  
+}
+
+div, body{
+  margin: 0;
+  padding: 0;
+  font-family: exo, sans-serif;
+  
+}
+img {
+    display: block;
+    margin: 0 auto;
+}
